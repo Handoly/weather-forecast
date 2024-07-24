@@ -18,7 +18,7 @@
 
 ​	2.点击鼠标右键进行退出。如图所示：
 
-[weather-forecast/exit.png at main · Handoly/weather-forecast (github.com)](https://github.com/Handoly/weather-forecast/blob/main/exit.png)
+![111](images/exit.png)
 
 ​	3.误差
 
