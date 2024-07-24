@@ -16,7 +16,7 @@
 
 ​	2.点击鼠标右键进行退出。如图所示：
 
-<img src="C:\Users\16140\AppData\Roaming\Typora\typora-user-images\image-20240724191729107.png" alt="image-20240724191729107" style="zoom:50%;" />
+[weather-forecast/exit.png at main · Handoly/weather-forecast (github.com)](https://github.com/Handoly/weather-forecast/blob/main/exit.png)
 
 ​	3.误差
 
