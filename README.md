@@ -12,7 +12,9 @@
 
 #### 三、项目说明
 
-​	1.下载后打开”weather_exe“文件夹，双击"weather.exe"文件即可运行。
+​	1.<font color=red>下载前请先关闭所有杀毒软件以及防火墙！！！</font>
+
+​	   下载后打开”weather_exe“文件夹，双击"weather.exe"文件即可运行。
 
 ​	2.点击鼠标右键进行退出。如图所示：
 
@@ -20,9 +22,17 @@
 
 ​	3.误差
 
-​		本项目所采用的天气数据API为：
+​	本项目所采用的天气数据API为：
 
-​	http://t.weather.sojson.com/api/weather/city/101040100，所采集得到的数据与专业软件对比，存在较大误差，特别是在面板左边部分今日数据的温度。后期可以更换为高德天气数据API或者AccuWeather网站所提供的API。其他API可以参考CSDN文章：《[最好的 6 个免费天气 API 接口对比测评_免费天气api-CSDN博客](https://blog.csdn.net/weixin_48201324/article/details/122260128)》。
+​	http://t.weather.sojson.com/api/weather/city/101040100
+
+​	所采集得到的数据与专业软件对比，存在较大误差，特别是在面板左边部分今日数据的温度。后期可以更换为高德天气数据API或者AccuWeather网站所提供的API。其他API可以参考CSDN文章：
+
+《[最好的 6 个免费天气 API 接口对比测评_免费天气api-CSDN博客](https://blog.csdn.net/weixin_48201324/article/details/122260128)》。
+
+​	4.报错
+
+​	当点击exe后提示“请检查输入是否正确”时，极有可能是没有关闭杀毒软件和防火墙。请关闭上述两者后重新下载本项目，重新运行即可成功。
 
 #### 四、项目开发环境
 
